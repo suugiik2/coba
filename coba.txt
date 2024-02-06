@@ -1,5 +1,4 @@
 coba
 - a
 - b
-- c
 - d
